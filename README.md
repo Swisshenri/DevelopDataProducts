@@ -12,3 +12,15 @@ The application must include the following:
 3.	Some reactive output displayed as a result of server calculations
 4.	You must also include enough documentation so that a novice user could use your application.
 5.	The documentation should be at the Shiny website itself. Do not post to an external link.
+
+Please see the following links:
+
+The Presentatio of the APP is in the Rpubs link:
+
+https://rpubs.com/swisshenri/652564
+
+The Shiny App with the interaction is in:
+
+https://henrishiny.shinyapps.io/MyAppPeerAsgnmtMo09We04/
+
+Thank you.
