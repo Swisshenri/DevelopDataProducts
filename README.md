@@ -1,6 +1,11 @@
 # Develop Data Products / Peer Assignment
 
-Your Shiny Application
+This work is the Peer assignment of the Developing Data Products course of Coursera John Hopkins University.
+
+The following are the instructions to develop a Shiny based App and a presentation in R:
+
+Shiny Application
+
 1.	Write a shiny application with associated supporting documentation. The documentation should be thought of as whatever a user will need to get started using your application.
 2.	Deploy the application on Rstudio's shiny server
 3.	Share the application link by pasting it into the provided text box
@@ -15,12 +20,14 @@ The application must include the following:
 
 Please see the following links:
 
-The Presentatio of the APP is in the Rpubs link:
+The Presentation of the APP is in the Rpubs link:
 
 https://rpubs.com/swisshenri/652564
 
 The Shiny App with the interaction is in:
 
 https://henrishiny.shinyapps.io/MyAppPeerAsgnmtMo09We04/
+
+All the source code is in the Github repository.
 
 Thank you.
